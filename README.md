@@ -1,2 +1,3 @@
 # UDP_TCP_ConnectDemo
-UDP/TCP區域網路資料傳遞之範例程式
+A sample program for data transfer over a local area network.
+
